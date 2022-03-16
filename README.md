@@ -10,7 +10,7 @@ de las actividades estrictamente marcadas de este curso.
 Todo acto realizado sin consentimiento de la tutoria queda 
 a responsabilidad de quien lo ejecute.
 
-***Pentest basico teorico/practico***
+***DE CERO A MEDIO/AVANZADO - teorico/practico***
 ****************************************************************************
 
 -Modulos-
