@@ -14,20 +14,36 @@ a responsabilidad de quien lo ejecute.
 ****************************************************************************
 
 -Modulos-
-**************************************INTRODUCCION A LA PLATAFORMA Y CIBERSEGURIDAD
-**************************************BASES DE LINUX FUNDAMENTALS
-**************************************BASES DE WINDOWS
-**************************************ANALISIS DE MALWARE
-**************************************REDES INFORMATICAS
-**************************************INGENIERIA SOCIAL
-**************************************IOT HACKING
-**************************************CRIPTOGRAFIA
-**************************************APLICACIONES WEB
-**************************************VULNERABILIDADES DE APLICACIONES WEB
-**************************************PENTEST
-**************************************REPORTING
-**************************************TRABAJOS FINALES
 
-**************************************Ciberseguridad Defensiva<<<<<<<<<
-**************************************Ciberseguridad Ofensiva<<<<<<<<<
-****************************************************CONTENIDO EXTRA.
+***INTRODUCCION A LA PLATAFORMA Y CIBERSEGURIDAD
+
+***BASES DE LINUX FUNDAMENTALS
+
+***BASES DE WINDOWS
+
+***ANALISIS DE MALWARE
+
+***REDES INFORMATICAS
+
+***INGENIERIA SOCIAL
+
+***IOT HACKING
+
+***CRIPTOGRAFIA
+
+***APLICACIONES WEB
+
+***VULNERABILIDADES DE APLICACIONES WEB
+
+***PENTEST
+
+***REPORTING
+
+***TRABAJOS FINALES
+
+
+***Ciberseguridad Defensiva<<<<<<<<<
+
+***Ciberseguridad Ofensiva<<<<<<<<<
+
+***CONTENIDO EXTRA.
