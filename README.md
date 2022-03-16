@@ -27,6 +27,7 @@ a responsabilidad de quien lo ejecute.
 **************************************PENTEST
 **************************************REPORTING
 **************************************TRABAJOS FINALES
->>>>>>>>>Ciberseguridad Defensiva<<<<<<<<<
->>>>>>>>>Ciberseguridad Ofensiva<<<<<<<<<
+
+**************************************Ciberseguridad Defensiva<<<<<<<<<
+**************************************Ciberseguridad Ofensiva<<<<<<<<<
 ****************************************************CONTENIDO EXTRA.
