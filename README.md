@@ -15,35 +15,34 @@ a responsabilidad de quien lo ejecute.
 
 -Modulos-
 
-***INTRODUCCION A LA PLATAFORMA Y CIBERSEGURIDAD
+<a href="">***INTRODUCCION A LA PLATAFORMA Y CIBERSEGURIDAD.</a>
 
-***BASES DE LINUX FUNDAMENTALS
+<a href="">***BASES DE LINUX FUNDAMENTALS.</a>
 
-***BASES DE WINDOWS
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-2-B4535%20L1NUX-W1ND0W2">***BASES DE WINDOWS.</a>
 
-***ANALISIS DE MALWARE
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-3-BLU3T34M">***BLUE TEAM<./a>
 
-***REDES INFORMATICAS
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-4-R3D35">***REDES INFORMATICAS.</a>
 
-***INGENIERIA SOCIAL
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-5-1N63N13414-S0C141">***INGENIERIA SOCIAL.</a>
 
-***IOT HACKING
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-6-107">***IOT HACKING.</a>
 
-***CRIPTOGRAFIA
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-7-C41970644F14">***CRIPTOGRAFIA.</a>
 
-***APLICACIONES WEB
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-8-4PL1C4C10N35-W3B">***APLICACIONES WEB.</a>
 
-***VULNERABILIDADES DE APLICACIONES WEB
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-9-VULN3R4V1L1D4D35-499-W38">***VULNERABILIDADES DE APLICACIONES WEB.</a>
 
-***PENTEST
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-10-P3NT357">***PENTEST.</a>
 
-***REPORTING
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-11-R390471N6">***REPORTING.</a>
 
 ***TRABAJOS FINALES
 
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/TR484J0-F1N41-D3F3N54">***Ciberseguridad Defensiva<<<<<<<<<.</a>
 
-***Ciberseguridad Defensiva<<<<<<<<<
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/TR484J0-F1N41-0F3N51V0">***Ciberseguridad Ofensiva<<<<<<<<<.</a>
 
-***Ciberseguridad Ofensiva<<<<<<<<<
-
-***CONTENIDO EXTRA.
+<a href="">***CONTENIDO EXTRA.</a>
