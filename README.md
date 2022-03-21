@@ -1,4 +1,4 @@
-.center {
+#.center {
   margin: auto;
   width: 50%;
   border: 3px solid green;
