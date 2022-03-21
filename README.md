@@ -1,3 +1,10 @@
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
 # Cu4s0--0-Gu14-C0mp1374-d3-H4cK1n9
 ****************************************************************************
 
@@ -13,15 +20,13 @@ a responsabilidad de quien lo ejecute.
 ***DE CERO A MEDIO/AVANZADO - teorico/practico***
 ****************************************************************************
 
--Modulos-
+<div class="center"> -Modulos- </div>
 
-<a href="">***INTRODUCCION A LA PLATAFORMA Y CIBERSEGURIDAD.</a>
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0du10-1-1NTR0DUCC10N">***INTRODUCCION A LA PLATAFORMA Y CIBERSEGURIDAD.</a>
+////
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-2-B4535%20L1NUX-W1ND0W2">***BASES DE LINUX Y WINDOWS.</a>
 
-<a href="">***BASES DE LINUX FUNDAMENTALS.</a>
-
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-2-B4535%20L1NUX-W1ND0W2">***BASES DE WINDOWS.</a>
-
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-3-BLU3T34M">***BLUE TEAM</a>
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-3-BLU3T34M">***BLUE TEAM.</a>
 
 <a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-4-R3D35">***REDES INFORMATICAS.</a>
 
