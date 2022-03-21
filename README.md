@@ -1,9 +1,3 @@
-#.center {
-  margin: auto;
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px;
-}
 
 # Cu4s0--0-Gu14-C0mp1374-d3-H4cK1n9
 ****************************************************************************
@@ -20,7 +14,7 @@ a responsabilidad de quien lo ejecute.
 ***DE CERO A MEDIO/AVANZADO - teorico/practico***
 ****************************************************************************
 
-<div class="center"> -Modulos- </div>
+<div align="center"> -Modulos- </div>
 
 <a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0du10-1-1NTR0DUCC10N">***INTRODUCCION A LA PLATAFORMA Y CIBERSEGURIDAD.</a>
 ////
