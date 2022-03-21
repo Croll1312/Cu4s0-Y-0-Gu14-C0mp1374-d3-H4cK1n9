@@ -16,8 +16,8 @@ a responsabilidad de quien lo ejecute.
 
 <div align="center"> -Modulos- </div>
 
-<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0du10-1-1NTR0DUCC10N">***INTRODUCCION A LA PLATAFORMA Y CIBERSEGURIDAD.</a>
-////
+<a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0du10-1-1NTR0DUCC10N" hover>***INTRODUCCION A LA PLATAFORMA Y CIBERSEGURIDAD.</a>
+
 <a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-2-B4535%20L1NUX-W1ND0W2">***BASES DE LINUX Y WINDOWS.</a>
 
 <a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-3-BLU3T34M">***BLUE TEAM.</a>
@@ -38,7 +38,7 @@ a responsabilidad de quien lo ejecute.
 
 <a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-11-R390471N6">***REPORTING.</a>
 
-***TRABAJOS FINALES
+<div align="center"> ***TRABAJOS FINALES </div>
 
 <a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/TR484J0-F1N41-D3F3N54">***Ciberseguridad Defensiva<<<<<<<<<.</a>
 
