@@ -1,0 +1,24 @@
+>>>THEORY<<<
+1.a- What is a pentest? What are the 4 basic steps of this process?
+1.b- What is a cybersecurity audit and what is the difference with a pentest?
+1.c- What does the acronym C.I.A mean with respect to cybersecurity and what does it refer to? (does not refer to the famous American agency).
+1.d- What is a red team? What is a blue team?
+1.e- What other working groups exist in addition to the two mentioned?
+1.f- What is the computer crime law in Argentina (or your corresponding country)? (explain 3 items in their own words).
+
+*Create an account at https://tryhackme.com to be able to access the rooms (it is important that you do the tryhackme exercises in the order that they are listed).
+Video help: https://www.youtube.com/watch?v=uE2QIOvepOQ THE VERSION YOU WILL SEE WILL BE DIFFERENT BECAUSE IT WAS UPDATED.
+
+*Install virtual box and create a virtual machine with Kali Linux: https://www.youtube.com/watch?v=cZYnq0MMSgw
+
+***From this moment when we work on the TryHackMe platform we will ALWAYS do it from the virtual machine that we created and using the vpn connection (see the first room on the use of OpenVPN which must also be installed in the virtual machine with Kali)
+
+>>>PRACTICE<<<
+*OpenVPN - https://tryhackme.com/room/openvpn - Video help: https://www.youtube.com/watch?v=DD-htO-XvP8
+*Tutorial - https://tryhackme.com/room/tutorial
+*Getting Started - https://tryhackme.com/room/gettingstarted
+*Starting Out In Cyber Security - https://tryhackme.com/room/startingoutincybersec
+*Welcome - https://tryhackme.com/room/hello
+*Introductory Researching - https://tryhackme.com/room/introtoresearch
+*Learning Cyber Security - https://tryhackme.com/room/beginnerpathintro
+*Tor - https://tryhackme.com/room/torforbeginners
