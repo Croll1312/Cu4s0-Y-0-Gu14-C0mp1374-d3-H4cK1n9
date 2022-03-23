@@ -34,9 +34,13 @@ Es sabido que para saber de hacking hay que tener conocimientos basico/intermedi
 
 En este modulo conocera los comandos basicos y escenciales, tales como find, grep, etc. Y como todo moudlo, tambien tiene su parte teorica que reocmiendo FUERTEMENTE que la realice para usted y enriquecer su conocimiento (en todos los modulos).
 
+PERO, tambien trabajaremos con Windoews, Porque? Por que hacker que maneja un solo sistema operativo no es hacker, solo es un "wanna be"/vende humo y este curso esta dirigdo a quienes quieran aprender de verdad, no a gente vaga sin curiosidad.
+
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-3-BLU3T34M">Modulo 03 - ***BLUE TEAM.</a></i></H3>
 
+Es sabido que una persona con conocimientos de hacking sabe romper sistemas, pero lo que la mayoria no sabe es que para saber romper tambien hay que saber proteger, por eso este modulo esta enfocado a todas las tacticas de ciberdefensa basicas existentes tales como deteccion de phishing, analisis de malwares, mobile hacking, comportamiento anomal en redes, procesos de mitigacion, etc.
 
+En el pasado he trabajado mucho tiempo en esta area e incluso he realizado seleccion de personal, en donde fui testigo de que mucha gente no sabe ni siquiera el potencial de herramientas de monitoreo tales como SIEM y Splunk, asi que este modulo es de suma importancia, ademas de que esta area no es de ensenarse en absolutamente ningun lugar porque no hay profesionales que tengan tiempo de dar clases sobre estos temas... por ende, APROVECHA!!!
 
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-4-R3D35">Modulo 04 - ***REDES INFORMATICAS.</a></i></H3>
 
