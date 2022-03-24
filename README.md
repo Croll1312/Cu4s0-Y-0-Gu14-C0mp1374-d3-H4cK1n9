@@ -66,13 +66,21 @@ Este tema es hermoso! Muchos profesionales hablan constantemente d=sobre criptog
 
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-8-4PL1C4C10N35-W3B">Modulo 08 - ***APLICACIONES WEB.</a></i></H3>
 
+Ahora si, si queres vivir de buscar vulnerabilidades web, ser cazador de recompenzas, ser reconocido, hacer investifaciones, etc.. Este modulo y los que siguen tenes que hacerlos y rehacerlos si es necesario. Porque de aca en adelante empezamos con algo que se nos presentara en absolutamente la gran mayoria de los trabajos de ethical hacking.
 
+Como funcionan los sitios web, las paginas de redes sociales, como modificarlas, como atacarlas, todo.. De aca en adelante quisiera que se tomaran todos los temas con mayor madures aun dado que cualquier accion que realices sin el consentimiento de la entidad propietaria del sitio al que atacas puede llevarte a la carcel (ni mucho menos).
 
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-9-VULN3R4V1L1D4D35-499-W38">Modulo 09 - ***VULNERABILIDADES DE APLICACIONES WEB.</a></i></H3>
 
+
+
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-10-P3NT357">Modulo 10 - ***PENTEST.</a></i></H3>
 
+
+
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-11-R390471N6">Modulo 12 - ***REPORTING.</a></i></H3>
+
+
 
 ****************************************************************************
 
