@@ -44,9 +44,21 @@ En el pasado he trabajado mucho tiempo en esta area e incluso he realizado selec
 
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-4-R3D35">Modulo 04 - ***REDES INFORMATICAS.</a></i></H3>
 
+Redes... la gran mayoria de las personas piensan que hacking es 100% programar y no hay nada mas equivocado que eso, ya que, hacking es mucho analisis, lecto comprension, muchisimo de redes, comportamientos de ejecuciones del objetivo a controlar y/o explotar, etc.
+
+Redes es alco que TODA PERSONA DE SISTEMAS tiene que saber SI O SI.. es mi opinion personal y por suerte la comparten muchisimas comunidades mas.
+
+Por eso, este modulo, asi como el anterior, es SUMAMENTE IMPORTANTE y espero que puedas adquirir todos los conocimientos que se detallan.
+
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-5-1N63N13414-S0C141">Modulo 05 - ***INGENIERIA SOCIAL.</a></i></H3>
 
+Llegamos a la meca, al hacking 24/7, donde sea, cuando sea, con quien o que sea el objetivo...
+Cybint, HUmint, Osint... Absolutamente todo esta basado en el analisis pero ahora nos enfocamos en el comportamiento humano porque SIEMPRE es la capa mas vulnerable y al mismo tiempo SIEMPRE sera la capa que siempre tendremos que trabajar para que sepan como protegerse.
+Pero en este modulo me atrevi a ir un poco mas alla, le agregue un poco de psicologia a teoria asi que tambien recomiendo fuertemente que realices la teoria COMPLETA dado que te servira absolutamente siempre.
+
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-6-107">Modulo 06 - ***IOT HACKING.</a></i></H3>
+
+
 
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-7-C41970644F14">Modulo 07 - ***CRIPTOGRAFIA.</a></i></H3>
 
