@@ -58,11 +58,15 @@ Pero en este modulo me atrevi a ir un poco mas alla, le agregue un poco de psico
 
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-6-107">Modulo 06 - ***IOT HACKING.</a></i></H3>
 
-
+Internet Of Things / El internet de las cosas... SmartTV, SmartCafeteria, SmartCasa, etc... Es un tema HERMOSISIMO dado las posibilidades que te da el tener conocimientos sobre IOT hacking. Actualmente (2022) es un area al que la fin le estan dando suma importancia (ademas de salir en peliculas y series de telvision), es importante que las personas sepan la importancia de la informacion publica de sus dispositivos de casa y como protegerse (ademas de que tiene que saber romperlos y/o utilizarlos para mayores cosas). Si sos de ver series y demas cosas de hollywood y esa basura, entonces es muy probable que este modulo te agrade sino tambien te recomuendo que lo hagas, ..ademas es re cortito, que no te de pereza.
 
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-7-C41970644F14">Modulo 07 - ***CRIPTOGRAFIA.</a></i></H3>
 
+Este tema es hermoso! Muchos profesionales hablan constantemente d=sobre criptografia y muchas amistades me han comunicado que normalmente no entienden nada al respecto, asi que en este modulo se te van a prender todas las luces para llegar a comprender MUCHISIMAS COSAS sobre todas las areas de sistemas... convinar criptografia en cualquier area es algo muy potente, una herramienta para comunicacion o simplemente envio de datos de la forma mas segura posible.. so vo perro.
+
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-8-4PL1C4C10N35-W3B">Modulo 08 - ***APLICACIONES WEB.</a></i></H3>
+
+
 
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-9-VULN3R4V1L1D4D35-499-W38">Modulo 09 - ***VULNERABILIDADES DE APLICACIONES WEB.</a></i></H3>
 
