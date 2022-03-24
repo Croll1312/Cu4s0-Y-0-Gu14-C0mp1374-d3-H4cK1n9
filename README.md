@@ -72,11 +72,11 @@ Como funcionan los sitios web, las paginas de redes sociales, como modificarlas,
 
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-9-VULN3R4V1L1D4D35-499-W38">Modulo 09 - ***VULNERABILIDADES DE APLICACIONES WEB.</a></i></H3>
 
-
+Bien, una vez aprendido el como y porque de las aplicaciones web llego la hora de empezar a explotar las vulnerabilidades mas basicas y que podemos encontrar a lo largo de toda la red. Son estas de las cuales te valeras dia a dia para explotar de forma manual o con herramientas automaticas. Con estas bases podras inicarte en la materia de pentesting, asi que a disfrutarlo, practicar y leer!!!
 
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-10-P3NT357">Modulo 10 - ***PENTEST.</a></i></H3>
 
-
+Pentest, lo mas pedido en auditorias de ciberseguridad, la rama fuerte, la meca de todo trabajo de ethical hacker. La gran mayoria de este modulo es practico, lo cual no quiere decir que cada room no tenga su teoria adentro, asi que por favor lee todo cuidadosamente, adquiri os conocimientos, divertite, y hacete un arsenal de herramientas junto a un checklist de que hacer y en que paso hacerlo.
 
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-11-R390471N6">Modulo 12 - ***REPORTING.</a></i></H3>
 
