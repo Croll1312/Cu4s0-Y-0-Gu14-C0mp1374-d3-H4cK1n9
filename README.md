@@ -87,9 +87,18 @@ Pentest, lo mas pedido en auditorias de ciberseguridad, la rama fuerte, la meca 
 <H2><i><div align="center"> ***TRABAJOS FINALES </div></i></H2>
 
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/TR484J0-F1N41-D3F3N54">***Ciberseguridad Defensiva<<<<<<<<<.</a></i></H3>
+  
+ Este trabajo consiste en ver todos los capitulos de la serie y anotar, por cada capitulo, cada ataque que ustedes detecte, explicarlo con conceptos tecnicos y a su vez describir como mitigarlos tanto para prevenirlos como solucionarlos luego de que el ataque se realizo.
+  
+ Todo este trabajo sirve de prueba para que puedan darse cuenta si realmente adquirieron todos los conocimientos teoricos/practicos de hacking.
 
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/TR484J0-F1N41-0F3N51V0">***Ciberseguridad Ofensiva<<<<<<<<<.</a></i></H3>
+  
+ En este trabajo practico se basa la granmayoria de las practicas en su equipo personal al descargarse una iagen de un laboratorio (por ejemplo, de este sitio: <a href="https://www.vulnhub.com/">VulnHub</a>)
 
 <H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/C0N73N1D0-3XT44">***CONTENIDO EXTRA.</a></i></H3>
+  
+El contenido que veran en este punto puede variar dependiendo la version de idioma que esten realizando el curso/guia.
+Es muy importante que vean y analicen minuciosamente cada video para poder adquirir el mayor conocimiento posible de forma critica.
   
   ****************************************************************************
