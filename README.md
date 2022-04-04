@@ -5,10 +5,10 @@
 Curso pentesting 16.3.33
 "Solo somos faros que nos guian pero el camino es personal."
 
-El autor de este curso alias "Croll1312" no se responsabiliza de 
+El autor de este curso alias "Croll" no se responsabiliza de 
 las acciones que realicen los estudiantes fuera 
 de las actividades estrictamente marcadas de este curso. 
-Todo acto realizado sin consentimiento de la tutoria queda 
+Todo acto realizado sin consentimiento de la tutoria y/o propietari@ del objetivo afectado queda 
 a responsabilidad de quien lo ejecute.
 
 ***DE CERO A MEDIO/AVANZADO - teorico/practico***
