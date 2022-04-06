@@ -78,7 +78,7 @@ Bien, una vez aprendido el como y porque de las aplicaciones web llego la hora d
 
 Pentest, lo mas pedido en auditorias de ciberseguridad, la rama fuerte, la meca de todo trabajo de ethical hacker. La gran mayoria de este modulo es practico, lo cual no quiere decir que cada room no tenga su teoria adentro, asi que por favor lee todo cuidadosamente, adquiri os conocimientos, divertite, y hacete un arsenal de herramientas junto a un checklist de que hacer y en que paso hacerlo.
 
-<H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-11-R390471N6">Modulo 12 - ***REPORTING.</a></i></H3>
+<H3><i><a href="https://github.com/Croll1312/Cu4s0-Y-0-Gu14-C0mp1374-d3-H4cK1n9/blob/main/M0DU10-11-R390471N6">Modulo 11 - ***REPORTING.</a></i></H3>
 
 
 
